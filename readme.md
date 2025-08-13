@@ -1,1 +1,1 @@
-This is repository contains concept-focused deep learning projects created while learning the fundamentals. These are not production-ready but serve as a knowledge base for my later, more advanced work
+Thisis repository contains concept-focused deep learning projects created while learning the fundamentals. These are not production-ready but serve as a knowledge base for my later, more advanced work
